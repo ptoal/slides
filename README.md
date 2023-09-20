@@ -1,2 +1,2 @@
 # slides
-Slide Decks for Sharint
+Slide Decks for Sharing
